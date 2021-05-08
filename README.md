@@ -8,5 +8,10 @@
 5. Binary Tree
 
 
-- Sorting
-- Searching
+## Sorting
+1. Bubble sort
+2. Insertion sort
+3. Merge sort
+4. Selection sort
+
+## Searching
