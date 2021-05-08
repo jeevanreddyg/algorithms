@@ -3,6 +3,8 @@
 *.exe
 *.pdb
 /build/
+/bin/
+/obj/
 *.suo
 *.user
 _ReSharper.*/
